@@ -62,7 +62,8 @@ O modelo escolhido foi a **Regressão Logística**, por ser mais simples, interp
 
 ---
 
-##👨‍💻 Autor
+## ✍️ Autor
 
-Desenvolvido por Lucas Santos
-🔗 LinkedIn
+**[Lucas Santos]**
+
+-   **LinkedIn:** [https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/lucassantos07)
